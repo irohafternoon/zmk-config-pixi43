@@ -142,7 +142,7 @@
         default_windows {
             bindings = <
 &kp Q             &kp W                      &kp E                    &kp R                 &kp T                                                                &kp Y                    &kp U                 &kp I                     &kp O                       &kp P
-&lt 3 A           &mt_balanced LEFT_SHIFT S  &mt_balanced LEFT_ALT D  &mt_balanced LCTRL F  &mt_balanced LEFT_GUI G  &trans                       &trans         &mt_balanced LEFT_GUI H  &mt_balanced RCTRL J  &mt_balanced K RIGHT_ALT  &mt_balanced RIGHT_SHIFT L  &lt 4 MINUS
+&lt 3 A           &mt_balanced LEFT_SHIFT S  &mt_balanced LEFT_ALT D  &mt_balanced LCTRL F  &mt_balanced LEFT_GUI G  &trans                       &trans         &mt_balanced LEFT_GUI H  &mt_balanced RCTRL J  &mt_balanced RIGHT_ALT K  &mt_balanced RIGHT_SHIFT L  &lt 4 MINUS
 &mt LEFT_SHIFT Z  &kp X                      &kp C                    &kp V                 &kp B                    &trans                       &trans         &kp N                    &kp M                 &kp COMMA                 &kp DOT                     &kp SLASH
 &lt 7 LCTRL       &kp LEFT_WIN               &kp LEFT_ALT             &mt LCTRL LANGUAGE_1  &mt LEFT_SHIFT SPACE     &mt LEFT_WIN LANGUAGE_2      &kp BACKSPACE  &lt 2 ENTER                                                                                          &to 1
             >;
